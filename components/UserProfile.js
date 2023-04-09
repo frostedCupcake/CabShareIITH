@@ -14,6 +14,7 @@ const UserProfile = () => {
       <p className="text-secondary-pink text-[1.2rem]">
         BM21BTECH11007@iith.ac.in
       </p>
+      <p className="text-gray-300 font-bold">+91 989786756</p>
     </div>
   );
 };
