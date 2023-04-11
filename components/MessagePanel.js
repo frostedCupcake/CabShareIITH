@@ -3,7 +3,7 @@ import GlobalMessage from './GlobalMessage';
 
 const MassagePanel = () => {
   return (
-    <div className="flex flex-col bg-secondary-blue/30 overflow-auto rounded-md w-[32rem] h-[34rem]">
+    <div className="flex flex-col bg-secondary-dark overflow-auto rounded-md w-[50%] mx-5 mt-[3rem]">
       <div className="tabs tabs-boxed mx-5 mt-2 mb-3 bg-gray-200 ">
         <div class="dropdown">
           <label tabindex="0" className="tab">
